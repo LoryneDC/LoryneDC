@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **C++, Java, and Python**
 - 🤝 I'm looking to collaborate on **open-source and AI projects**
 - 💬 Ask me about **algorithms, problem-solving, and backend development**
-- 📂 All my projects are available at [My GitHub](https://github.com/YourGitHubUsername)
+- 📂 All my projects are available at [My GitHub](https://github.com/LoryneDC)
 
 ---
 
