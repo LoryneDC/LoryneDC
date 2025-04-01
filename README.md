@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Loryne De Castro</h1>
+<h1 align="center">✨Hi, I'm Loryne De Castro💫</h1>
 <h3 align="center">Computer Science Student | Future Software Engineer</h3>
 
 🔹 **🖥️ Passionate about:** Problem-solving, security, and backend development  
