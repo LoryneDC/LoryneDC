@@ -2,9 +2,9 @@
 
 <h3 align="center">Computer Science Student | Future Software Engineer</h3>
 
-🔹 <strong>🖥️ Passionate about:</strong> Problem-solving, security, and backend development  
-🔹 <strong>📚 Learning:</strong> C, Java, and Python to strengthen my CS foundations  
-🔹 <strong>🤖 Exploring:</strong> Machine Learning and algorithmic efficiency  
+ <strong>🖥️ Passionate about:</strong> Problem-solving, security, and backend development  
+ <strong>📚 Learning:</strong> C, Java, and Python to strengthen my CS foundations  
+ <strong>🤖 Exploring:</strong> Machine Learning and algorithmic efficiency  
 
 ---
 
